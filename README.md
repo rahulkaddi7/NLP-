@@ -1,26 +1,6 @@
-# EmoRec - An Intelligent Emotion Predictor
-
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
-
-• This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
-
-
-## Why This Project :
+# EmoRec - An Intelligent Emotion Predictor ![LINK](https://emotion-predictor-app.onrender.com)
 
 This Project uses a natural language processing technique used to determine whether data is positive, negative or neutral. Sentiment analysis is often performed on textual data to help businesses monitor brand and product sentiment in customer feedback, and understand customer needs.
-
-
-## To Run :
-
-Visit : https://emorecognition.herokuapp.com/
-
-
-## For devolepment :
-
-* Fork the project
-* Simply run ```python app.py```
-* Open the Local Host using a browser
-
 
 ## Techstack: 
              * HTML
