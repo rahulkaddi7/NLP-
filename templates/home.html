@@ -21,8 +21,7 @@
     <div id="wrapper">
         <form action="/predict" name="myforms" method="POST" id=paper>
             <textarea placeholder="Enter Here" id="text" name="text" rows="10"
-                style="overflow: hidden; word-wrap: break-word; resize: none; height: 180px; ">
-        </textarea>
+                style="overflow: hidden; word-wrap: break-word; resize: none; height: 180px; ">{{ user_text or '' }}</textarea>
             <input type="submit" class="btn fourth" value="predict">
         </form>
     </div>
