@@ -8,4 +8,5 @@ This Project uses a natural language processing technique used to determine whet
 * Python (Flask as Backend)
 
 ## Screen Shot of the WebApp:
-![Screenshot of EmoRec](Images/Glipse_EmoRec.png)
+![Screenshot of EmoRec](assets/img1.png)
+![Screenshot of EmoRec](assets/img2.png)
